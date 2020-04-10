@@ -9,5 +9,4 @@ Here is an example of how to execute the script:
 
     bash run.pipeline.sh -p true -f true -m true -y filepath
     
-As you already have functions to train kmeans and SVMs, we did not include those skeletons here.
-The main TODOs will be to write the function for SURF feature extraction and for CNN feature extraction. **You can reuse your code from HW1 for kmeans and SVM training.**
+
